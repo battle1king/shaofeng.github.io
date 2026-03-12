@@ -4,7 +4,7 @@ layout: splash        # use the splash layout for a hero image
 title: "Shaofeng Guo"
 author_profile: true
 header:
-  overlay_image: /images/hero.jpg   # replace with your hero photo
+  overlay_image: /images/homepage.png   # use existing image file
   overlay_color: "#f3eeec"
   overlay_opacity: 0.5
 redirect_from: 
@@ -17,7 +17,7 @@ working on image forensics and visual reasoning. This site contains my publicati
 and projects related to multimedia security and analysis.
 
 <p align="center">
-  <img src="/images/profile.jpg" alt="Shaofeng Guo profile photo" width="220" style="border-radius: 12px;" />
+  <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Shaofeng Guo profile photo" width="220" style="border-radius: 12px;" />
 </p>
 
 ## 📬 Contact
