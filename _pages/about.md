@@ -23,7 +23,7 @@ and projects related to multimedia security and analysis.
 ## 📬 Contact
 - email: [1kingto1top@gmail.com](mailto:1kingto1top@gmail.com)
 - Google Scholar: [My profile](https://scholar.google.com/citations?hl=en&user=UBCS-zsAAAAJ&scilu=&scisig=ACUpqDcAAAAAaLsDrdC3shQ3rrUcQRgOmDFymqA&gmla=AH8HC4yIMt86aRUoS4xW8WS_nOh5v8Y57XYbVi_PusYdCqmy2dQ6fM2YppnuAA3TuedBpNqTl6CWV7AVn9KkUNUoRuhafY2NzrJRVTU&sciund=6415130130695938645)
-- GitHub: [battle1king](https://github.com/battle1king)
+- GitHub: [sha0fengGuo](https://github.com/sha0fengGuo)
 
 For more details, see the backup copy at `about_local.md` in the repository root.
 
